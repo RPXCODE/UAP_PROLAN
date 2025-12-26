@@ -26,7 +26,7 @@ Berikut adalah fitur-fitur unggulan dalam aplikasi:
 * **IDE**: IntelliJ IDEA
 * **Konsep**: OOP (Encapsulation, Inheritance, Polymorphism), MVC Pattern (Model-View-Controller).
 
-## 📂 Struktur Folder
+## 📂 Struktur Folder.
 Struktur paket (package) dalam proyek ini disusun sebagai berikut.
 
 ```text
