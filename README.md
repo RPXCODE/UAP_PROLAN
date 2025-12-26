@@ -27,7 +27,7 @@ Berikut adalah fitur-fitur unggulan dalam aplikasi:
 * **Konsep**: OOP (Encapsulation, Inheritance, Polymorphism), MVC Pattern (Model-View-Controller).
 
 ## 📂 Struktur Folder
-Struktur paket (package) dalam proyek ini disusun sebagai berikut:
+Struktur paket (package) dalam proyek ini disusun sebagai berikut.
 
 ```text
 src/
